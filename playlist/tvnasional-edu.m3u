@@ -21,7 +21,7 @@ https://cdn.iptv-org.net/indonesia/metrotv.m3u8
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV" tvg-logo="https://www.transtv.co.id/livetv/anytv/KOMPAS_TV_live_streaming_tv.jpg" group-title="Indonesia",Kompas TV
 https://cdn.iptv-org.net/indonesia/kompastv.m3u8
 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="https://github.com/iptv-org/logo/raw/master/asia/id/trans7.id.png" group-title="Aktif",Trans7
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="Aktif",Trans7
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Logo_Trans_TV.png/1200px-Logo_Trans_TV.png" group-title="Aktif",Trans TV
