@@ -33,7 +33,7 @@ https://cdn.iptv-org.net/indonesia/nettv.m3u8
 #EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Nasional" tvg-logo="https://github.com/iptv-org/logo/raw/master/asia/id/tvri.id.png" group-title="Indonesia",TVRI Nasional
 https://cdn.iptv-org.net/indonesia/tvri.m3u8
 
-#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-name="CNBC Indonesia" tvg-logo="https://github.com/iptv-org/logo/raw/master/asia/id/cnbcindonesia.id.png" group-title="Aktif",CNBC Indonesia
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-name="CNBC Indonesia" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo_hitam.png?w=650" group-title="Aktif",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 #EXTINF:-1 group-title="Aktif" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png",CNN INDONESIA
