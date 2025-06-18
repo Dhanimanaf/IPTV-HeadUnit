@@ -13,7 +13,7 @@ https://cdn.iptv-org.net/indonesia/indosiar.m3u8
 https://cdn.iptv-org.net/indonesia/antv.m3u8
 
 #EXTINF:-1 tvg-id="TVOne.id" tvg-name="TVOne" tvg-logo="https://github.com/iptv-org/logo/raw/master/asia/id/tvone.id.png" group-title="Indonesia",TVOne
-https://cdn.iptv-org.net/indonesia/tvone.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="https://thumbor.prod.vidiocdn.com/CN732k1UkV-MWtonPwmlMzDE-gY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-461c64.jpg" group-title="Indonesia",MetroTV
 https://cdn.iptv-org.net/indonesia/metrotv.m3u8
