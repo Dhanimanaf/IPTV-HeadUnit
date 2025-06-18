@@ -25,7 +25,7 @@ https://cdn.iptv-org.net/indonesia/kompastv.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Logo_Trans_TV.png/1200px-Logo_Trans_TV.png" group-title="Aktif",Trans TV
-https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+https://livestream.transtv.co.id/stream/live/ttv.m3u8
 
 #EXTINF:-1 tvg-id="NET.id" tvg-name="NET." tvg-logo="https://www.transtv.co.id/livetv/anytv/NET_TV_live_streaming_tv.jpg" group-title="Indonesia",NET.
 https://cdn.iptv-org.net/indonesia/nettv.m3u8
@@ -44,3 +44,5 @@ https://raw.githubusercontent.com/Dhanimanaf/IPTV-HeadUnit/main/playlist/stream/
 
 #EXTINF:-1 tvg-id="ESG" tvg-name="Lingkungan & EBT" tvg-logo="https://github.com/iptv-org/logo/raw/master/generic/environment.png" group-title="Edukasi",Lingkungan & EBT
 https://raw.githubusercontent.com/Dhanimanaf/IPTV-HeadUnit/main/playlist/stream/ebt-lingkungan.m3u8
+
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
