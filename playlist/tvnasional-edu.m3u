@@ -1,7 +1,25 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="Aktif",Trans7
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Logo_Trans_TV.png/1200px-Logo_Trans_TV.png" group-title="Aktif",Trans TV
+https://livestream.transtv.co.id/stream/live/ttv.m3u8
+
+#EXTINF:-1 tvg-id="TVOne.id" tvg-name="TVOne" tvg-logo="https://github.com/iptv-org/logo/raw/master/asia/id/tvone.id.png" group-title="Aktif",TVOne
+http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-name="CNBC Indonesia" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo_hitam.png?w=650" group-title="Aktif",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png" group-title="Aktif",CNN INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
+
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI HD" tvg-logo="https://github.com/iptv-org/logo/raw/master/asia/id/rcti.id.png" group-title="Aktif",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://github.com/iptv-org/logo/raw/master/asia/id/antv.id.png" group-title="Aktif",ANTV
+http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png" group-title="Indonesia",SCTV
 https://cdn.iptv-org.net/indonesia/sctv.m3u8
@@ -9,35 +27,17 @@ https://cdn.iptv-org.net/indonesia/sctv.m3u8
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://www.transtv.co.id/livetv/anytv/INDOSIAR_live_streaming_tv.jpg" group-title="Indonesia",Indosiar
 https://cdn.iptv-org.net/indonesia/indosiar.m3u8
 
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://github.com/iptv-org/logo/raw/master/asia/id/antv.id.png" group-title="Aktif",ANTV
-http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
-
-#EXTINF:-1 tvg-id="TVOne.id" tvg-name="TVOne" tvg-logo="https://github.com/iptv-org/logo/raw/master/asia/id/tvone.id.png" group-title="Aktif",TVOne
-http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
-
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="https://thumbor.prod.vidiocdn.com/CN732k1UkV-MWtonPwmlMzDE-gY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-461c64.jpg" group-title="Indonesia",MetroTV
 https://cdn.iptv-org.net/indonesia/metrotv.m3u8
 
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV" tvg-logo="https://www.transtv.co.id/livetv/anytv/KOMPAS_TV_live_streaming_tv.jpg" group-title="Indonesia",Kompas TV
 https://cdn.iptv-org.net/indonesia/kompastv.m3u8
 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="Aktif",Trans7
-https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
-
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Logo_Trans_TV.png/1200px-Logo_Trans_TV.png" group-title="Aktif",Trans TV
-https://livestream.transtv.co.id/stream/live/ttv.m3u8
-
 #EXTINF:-1 tvg-id="NET.id" tvg-name="NET." tvg-logo="https://www.transtv.co.id/livetv/anytv/NET_TV_live_streaming_tv.jpg" group-title="Indonesia",NET.
 https://cdn.iptv-org.net/indonesia/nettv.m3u8
 
 #EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Nasional" tvg-logo="https://i.imgur.com/bD2odoR.png" group-title="Indonesia",TVRI Nasional
 https://cdn.iptv-org.net/indonesia/tvri.m3u8
-
-#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-name="CNBC Indonesia" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo_hitam.png?w=650" group-title="Aktif",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-
-#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png" group-title="Aktif",CNN INDONESIA
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="MINING-EDU" tvg-name="Mining Education" tvg-logo="https://github.com/iptv-org/logo/raw/master/generic/mining.png" group-title="Edukasi",Mining Education
 https://raw.githubusercontent.com/Dhanimanaf/IPTV-HeadUnit/main/playlist/stream/mining-edu.m3u8
