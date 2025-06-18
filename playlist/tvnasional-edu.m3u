@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://github.com/iptv-org/logo/raw/master/asia/id/rcti.id.png" group-title="Indonesia",RCTI
-https://cdn.iptv-org.net/indonesia/rcti.m3u8
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI HD" tvg-logo="https://github.com/iptv-org/logo/raw/master/asia/id/rcti.id.png" group-title="Aktif",RCTI
+https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png" group-title="Indonesia",SCTV
 https://cdn.iptv-org.net/indonesia/sctv.m3u8
